@@ -82,7 +82,9 @@ header{
 {
   .col-sm-4{
     float: left;
-    width:86%;
+    width:90%;
+    margin-left:4%;
+    margin-right:4%;
   }
 }
 
